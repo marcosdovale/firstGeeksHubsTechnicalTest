@@ -1,0 +1,32 @@
+.homeDesign {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    padding-top: 1em;
+
+}
+
+a:link {
+    color: gold;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: goldenrod;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
