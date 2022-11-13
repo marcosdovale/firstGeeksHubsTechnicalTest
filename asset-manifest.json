@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firstGeeksHubsTechnicalTest/static/css/main.6fffb75c.css",
+    "main.js": "/firstGeeksHubsTechnicalTest/static/js/main.00dd6ec8.js",
+    "static/js/787.1d4e62f9.chunk.js": "/firstGeeksHubsTechnicalTest/static/js/787.1d4e62f9.chunk.js",
+    "static/media/load.gif": "/firstGeeksHubsTechnicalTest/static/media/load.a1a996746e5e48352c81.gif",
+    "index.html": "/firstGeeksHubsTechnicalTest/index.html",
+    "main.6fffb75c.css.map": "/firstGeeksHubsTechnicalTest/static/css/main.6fffb75c.css.map",
+    "main.00dd6ec8.js.map": "/firstGeeksHubsTechnicalTest/static/js/main.00dd6ec8.js.map",
+    "787.1d4e62f9.chunk.js.map": "/firstGeeksHubsTechnicalTest/static/js/787.1d4e62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fffb75c.css",
+    "static/js/main.00dd6ec8.js"
+  ]
+}
