@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# First GreeksHub Technical Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the answer to the first challenge launched by GreeksHub in the REACT course.
+It has 3 views: Home, Popular Movies and Search.
 
 ## Available Scripts
 
