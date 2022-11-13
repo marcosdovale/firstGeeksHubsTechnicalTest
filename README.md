@@ -3,6 +3,8 @@
 This project is the answer to the first challenge launched by GreeksHub in the REACT course.
 It has 3 views: Home, Popular Movies and Search.
 
+It follows the tutorial from [dev.to](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) to poblic it
+
 ## Available Scripts
 
 In the project directory, you can run:
