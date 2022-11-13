@@ -11,9 +11,9 @@ function App() {
       <BrowserRouter>
         <Header/>
         <Routes>
-          <Route path='/' element={<Home/>}/>
-          <Route path='/popular' element={<Popular/>}/>
-          <Route path='/search' element={<Search/>}/>
+          <Route path='./' element={<Home/>}/>
+          <Route path='./popular' element={<Popular/>}/>
+          <Route path='./search' element={<Search/>}/>
         </Routes>
       </BrowserRouter>
     </div>
